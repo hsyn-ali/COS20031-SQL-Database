@@ -199,10 +199,11 @@ erDiagram
 
 | Name | Student ID | Role |
 |---|---|---|
-| Hassan | | |
-| | | |
-| | | |
-| | | |
+| Hassan Ali Shah SYED | 105797705 | Developer |
+| Kevin Emmanuel Rusli | 105801758 | Developer |
+| Hui Ming TANG | 104399731 | Developer |
+| Darryl Ho Yung Hwa | 104396017 | Product Owner |
+| Ali Murtaza Shah SYED | 1044007320 | Scrum Master |
 
 ## Tools
 
